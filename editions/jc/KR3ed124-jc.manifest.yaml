@@ -1,0 +1,194 @@
+canonical_identifier: bkk:krp/KR3ed124/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ed124/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 雞鳴錄
+  identifiers:
+    krp: KR3ed124
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed124.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed124_000-jc.yaml, hash: 'sha256:13b3ed07042da36788c8f54e26946e817be1a4688c781c91ab8031d39dfa7442'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed124_000-jc.markers.yaml, hash: 'sha256:c8e197ae793d11adde7a103dbd684b06623ae6c55440b672327ad267ff4b15e2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed124_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 1643
+  label: 女科第一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed124_jc_000-d3.h1s1
+    span:
+    - body
+    - 1643
+    - 3689
+  label: 兒科第二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed124_jc_000-d4.h1s1
+    span:
+    - body
+    - 3689
+    - 3973
+  label: 養生第三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed124_jc_000-d5.h1s1
+    span:
+    - body
+    - 3973
+    - 6975
+  label: 虛勞第四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed124_jc_000-d6.h1s1
+    span:
+    - body
+    - 6975
+    - 7715
+  label: 哮喘第五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed124_jc_000-d7.h1s1
+    span:
+    - body
+    - 7715
+    - 9408
+  label: 反胃及痛噎隔第六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed124_jc_000-d8.h1s1
+    span:
+    - body
+    - 9408
+    - 10457
+  label: 痞積第七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed124_jc_000-d9.h1s1
+    span:
+    - body
+    - 10457
+    - 11613
+  label: 腫脹疸瘧第八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed124_jc_000-d10.h1s1
+    span:
+    - body
+    - 11613
+    - 13025
+  label: 顛狂癇厥疫第九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed124_jc_000-d11.h1s1
+    span:
+    - body
+    - 13025
+    - 13251
+  label: 中毒第十
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed124_jc_000-d12.h1s1
+    span:
+    - body
+    - 13251
+    - 16178
+  label: 頭面七竅病第十一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed124_jc_000-d13.h1s1
+    span:
+    - body
+    - 16178
+    - 17081
+  label: 風痹腳氣轉筋鶴膝第十二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed124_jc_000-d14.h1s1
+    span:
+    - body
+    - 17081
+    - 17692
+  label: 前陰病第十三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed124_jc_000-d15.h1s1
+    span:
+    - body
+    - 17692
+    - 18692
+  label: 後陰病第十四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed124_jc_000-d16.h1s1
+    span:
+    - body
+    - 18692
+    - 29247
+  label: 外科第十五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed124_jc_000-d17.h1s1
+    span:
+    - body
+    - 29247
+    - 31365
+  label: 傷科第十六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed124_jc_000-d18.h1s1
+    span:
+    - body
+    - 31365
+    - 31553
+  label: 祛蟲害物第十七
+  type: section
+  level: 1
+hash: sha256:98f670acfa2653a9da12d21fe821f22bd933a91e49858b050b1f2c561f792724
