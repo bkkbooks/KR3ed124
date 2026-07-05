@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed124_000.yaml, hash: 'sha256:eef79090aa8879bb0f833c03cb0df41d4f925c81ab92eebf13c3c3fe32db6546'}
+  - {seq: 0, filename: KR3ed124_000.yaml, hash: 'sha256:13b3ed07042da36788c8f54e26946e817be1a4688c781c91ab8031d39dfa7442'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed124_000.markers.yaml, hash: 'sha256:d3591d7e285fa6e3c35d5879cdc6fd61170050a346ac217128e61ad1fcee3296'}
+  - {seq: 0, role: markers, filename: assets/KR3ed124_000.markers.yaml, hash: 'sha256:fe3dabdfabf780d6d8750456a2f72232ec32c71519ab7c45b3546970f1d1dc1f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -191,7 +191,4 @@ table_of_contents:
   label: 祛蟲害物第十七
   type: section
   level: 1
-hash: sha256:640f3542cf62b9cc42d7de6f5b6564592ccd3ad4cfd54035b36a086845f344f0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f79248bae3b2e2d4770794964523366e6fb06e000273e470738f61c5e5343653
