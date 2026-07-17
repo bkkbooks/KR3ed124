@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed124_000-jc.yaml, hash: 'sha256:13b3ed07042da36788c8f54e26946e817be1a4688c781c91ab8031d39dfa7442'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed124_000-jc.markers.yaml, hash: 'sha256:c8e197ae793d11adde7a103dbd684b06623ae6c55440b672327ad267ff4b15e2'}
+  - {seq: 0, role: markers, filename: assets/KR3ed124_000-jc.markers.yaml, hash: 'sha256:66a81b1b704eee0b21323280dbe208be1097444612b12faf812f223b478333a1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -191,4 +191,4 @@ table_of_contents:
   label: 祛蟲害物第十七
   type: section
   level: 1
-hash: sha256:98f670acfa2653a9da12d21fe821f22bd933a91e49858b050b1f2c561f792724
+hash: sha256:f00c48ebc77e937bc9bd177cceadd7c640f6b42ef568210a9df4e9e2be97c931
